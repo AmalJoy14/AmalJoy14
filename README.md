@@ -1,9 +1,11 @@
 # 💫 About Me:
-<h2 align="left">Hi 👋! My name is Amal Joy.
-I'm a Web Developer</h2>
-
-
+<h2 align="left" style="height: 350px">Hi 👋! My name is Amal Joy.
+I'm a Web Developer
 <img align="right" height="150" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"  />
+</h2>
+
+
+
 
 
 
