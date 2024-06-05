@@ -55,7 +55,7 @@
 
 ---
 <div align="center">
-  <img src="https://profile-counter.glitch.me/amaljoy14/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/AmalJoy14/count.svg?"  />
 </div>
 
 
