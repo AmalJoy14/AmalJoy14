@@ -54,6 +54,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AmalJoy14&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AmalJoy14&icon=0&color=1)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/amaljoy14/count.svg?"  />
+</div>
+
 
 <!-- Proudly presents  -->
