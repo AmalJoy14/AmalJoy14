@@ -1,16 +1,20 @@
 # 💫 About Me:
-<h2 align="left" style="height: 350px">Hi 👋! My name is Amal Joy.
-I'm a Web Developer
 <img align="right" height="150" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"  />
+<h2 align="left" style="height: 350px">Hi 👋! My name is Amal Joy.<br><br>
+I'm a Web Developer<br><br><br>
+
 </h2>
 
 
 
-
-
-
 ## 🌐 Socials:
+
+<div align="center">
+  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amaljoy246) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amaljoy246) 
+
+</div>
+
 
 # 💻 Tech Stack:
 <div align="center">
@@ -47,18 +51,26 @@ I'm a Web Developer
 
 ###
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AmalJoy14&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AmalJoy14&theme=radical&hide_border=false)<br/>
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalJoy14&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api?username=AmalJoy14&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AmalJoy14&theme=radical&hide_border=false)<br/>
+
+
+</div>
+
 ## 🏆 GitHub Trophies
+<div align= "center">
+  
 ![](https://github-profile-trophy.vercel.app/?username=AmalJoy14&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AmalJoy14&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+</div>
 
 ---
 <!-- Proudly presents  -->
