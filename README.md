@@ -2,10 +2,7 @@
 <img align="right" height="150" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"  />
 <h2 align="left" style="height: 350px">Hi 👋! My name is Amal Joy.<br><br>
 I'm a Web Developer<br><br><br>
-
 </h2>
-
-
 
 ## 🌐 Socials:
 
